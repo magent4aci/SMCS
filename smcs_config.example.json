@@ -1,0 +1,32 @@
+{
+  "model_configs": {
+    "Meta-Llama-3.3-70B-Instruct": {
+      "type": "fastapi",
+      "ip": "127.0.0.1",
+      "port": "6006"
+    },
+    "QwQ-32B": {
+      "type": "fastapi",
+      "ip": "127.0.0.1",
+      "port": "6006"
+    },
+    "gpt-4.1": {
+      "type": "openai",
+      "model_name": "gpt-4.1",
+      "api_key_env": "OPENAI_API_KEY"
+    }
+  },
+  "embedding_model_configs": {
+    "Linq-Embed-Mistral": {
+      "type": "fastapi",
+      "ip": "127.0.0.1",
+      "port": "6006"
+    }
+  },
+  "question_banks": {
+    "8d": "your path to the question bank json"
+  },
+  "embedding_model_paths": {
+    "Linq-Embed-Mistral": "your path to Linq-Embed-Mistral"
+  }
+}
