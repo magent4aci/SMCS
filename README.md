@@ -4,7 +4,7 @@
 <p align="center">
   <img src="./asset/smcs_simple.png" alt="SMCS" width="100%" />
 </p>
-TDRL: A multi-LLM collaboration framework that **selects the suitable LLMs for each question, explores multiple aggregation candidates, and chooses the best final response.**
+A multi-LLM collaboration framework that **selects the suitable LLMs for each question, explores multiple aggregation candidates, and chooses the best final response.**
 <p align="center">
   <a href="https://github.com/magent4aci/SMCS"><img src="https://img.shields.io/badge/GitHub-SMCS-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://arxiv.org/pdf/2507.14200?"><img src="https://img.shields.io/badge/Paper-arXiv-A42C25?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv Paper"></a>
