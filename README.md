@@ -13,7 +13,7 @@
 A multi-LLM collaboration framework that selects the suitable LLMs for each question, explores multiple aggregation candidates, and chooses the best final response. ⭐ Star this repo if you find it useful, it’s the best way to support us! 😊😊😊 
 
 # 📰News</h1>
-
+- [2026/05/21] 🌟 The related question bank and answer cache are fully released in HuggingFace!
 - [2026/05/20] 🌟 The open-source engineering version of SMCS was cleaned up!
 - [2026/04/04] 🏆 SMCS is accepted in the ACL 2026 main conference!
 
