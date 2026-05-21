@@ -4,13 +4,13 @@
 <p align="center">
   <img src="./asset/smcs_simple.png" alt="SMCS" width="100%" />
 </p>
-A multi-LLM collaboration framework that **selects the suitable LLMs for each question, explores multiple aggregation candidates, and chooses the best final response.**
 <p align="center">
   <a href="https://github.com/magent4aci/SMCS"><img src="https://img.shields.io/badge/GitHub-SMCS-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://arxiv.org/pdf/2507.14200?"><img src="https://img.shields.io/badge/Paper-arXiv-A42C25?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv Paper"></a>
   <a href="https://huggingface.co/datasets/aisfuture/smcs_data"><img src="https://img.shields.io/badge/Hugging%20Face-Dataset-fcd022?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face Dataset"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License"></a>
 </p>
+A multi-LLM collaboration framework that selects the suitable LLMs for each question, explores multiple aggregation candidates, and chooses the best final response. ⭐ Star this repo if you find it useful, it’s the best way to support us! 😊😊😊 
 
 # 📰News</h1>
 
@@ -21,7 +21,7 @@ A multi-LLM collaboration framework that **selects the suitable LLMs for each qu
 
 # 📓Introduction
 
-SMCS is the official open-source implementation of the paper **"A Scalable Multi-LLM Collaboration System with Retrieval-based Selection and Exploration-Exploitation-Driven Enhancement"**.
+SMCS is the official open-source implementation of the paper **A Scalable Multi-LLM Collaboration System with Retrieval-based Selection and Exploration-Exploitation-Driven Enhancement**.
 
 Recent large language models have become strong general-purpose reasoners, but no single model is uniformly best across all tasks. As more heterogeneous open-source LLMs become available, an important research question emerges: **how can we scale collaboration among many LLMs so that the whole system becomes stronger than any single model, while still remaining extensible as new models and new tasks appear?**
 
